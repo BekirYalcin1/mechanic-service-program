@@ -1,0 +1,9 @@
+alex morgan,2000
+james roberts,12350
+samantha lee-wong,8050
+fred nolan,16200
+priya patel,9800
+daniel o’connor,5200
+maria fernandez,3000
+jonathan smith,11000
+naz,25000
